@@ -1,0 +1,45 @@
+5.67 kings indian
+8.00 ruy lopez
+8.00 sicilian defense
+8.33 caro kann
+9.33 queens gambit
+11.33 london system
+15.67 reti opening
+17.00 scotch
+17.33 closed sicilian
+19.00 advanced french
+20.33 grand prix
+20.33 smith morra
+20.67 nimzo-larsen attack
+21.67 alapin sicilian
+22.00 danish gambit
+24.67 catalan
+25.00 petrov
+25.67 marshall attack
+26.33 pirc
+26.67 accelerated dragon
+28.00 najdorf
+28.33 scandi
+29.00 dutch defense
+29.00 english
+29.00 french defense
+30.00 fried liver
+30.00 slav
+30.33 stonewall
+31.33 ponziani opening
+33.67 berlin defense
+35.00 kings gambit
+37.00 jerome gambit
+39.67 bongcloud
+40.33 hippo
+42.67 gruenfeld
+44.67 budapest gambit
+45.00 giuoco piano
+46.33 portuguese gambit
+47.67 benoni
+48.33 alekhines defense
+48.33 philidor defense
+49.00 orangutan (polish)
+53.33 grob
+53.33 latvian gambit 
+59.00 sodium attack 

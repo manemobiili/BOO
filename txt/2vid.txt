@@ -1,0 +1,19 @@
+1.50 evans gambit
+8.00 vienna gambit
+12.50 italian
+18.00 sicilian dragon
+21.50 nimzo indian
+24.50 trumpowsky
+26.00 tarrasch french
+26.50 exchange caro kann
+27.50 rossolimo
+29.50 kings indian attack
+35.00 englund gambit
+38.00 advanced caro kann
+41.50 hillbilly attack
+44.00 dragdorf
+49.00 birds opening
+52.00 four knights italian
+54.00 fools mate
+56.00 benko gambit
+57.50 fred
