@@ -3,7 +3,7 @@ Best Overall Openings
 
 These opening's are from Hikaru and Levy's (beginner, intermediate & grandmaster) tier list videos.
 
-https://www.youtube.com/c/GMHikaru
+https://www.youtube.com/c/GMHikaru \
 https://www.youtube.com/c/gothamchess
 
 There's no tiers here, just placement on the list matters. Therefore lower score is better. Score is sum of all placings and average is score divided by number of videos the opening is featured in.
